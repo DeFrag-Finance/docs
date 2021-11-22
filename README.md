@@ -25,6 +25,10 @@ Borrowers collateralize NFT assets to request loans and the protocol automatical
 
 ### Raising the Underwriting Pool via Minting our Metamatician NFTs
 
+In order to provide a frictionless borrowing experience, the protocol needs to raise liquidity to jump-start the liquidity pool that will underwrite the loans.
+
+This is why we created the Metamatician NFTs.
+
 ****[**Metamaticians**](overview/metamaticians.md) serve as your User ID in the DeFrag ecosystem. They are randomly generated NFTs based on famous mathematicians and come with a stake in the first Underwriting Pool to earn premium fees. Additional dynamic attributes enable you to accrue more value through your participation in the DeFrag ecosystem.
 
 ### Governance
