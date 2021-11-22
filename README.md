@@ -19,11 +19,8 @@ Benefits of using DeFrag:
 
 #### NFTs As User IDs (Metamaticians)
 
-[Metamaticians](overview/minting-metamaticians.md) serve as your User ID in the DeFrag ecosystem. They are randomly generated NFTs based on famous mathematicians and come with a stake in the first Underwriting Pool to earn premium fees. Additional dynamic attributes enable you to accrue more value through your participation in the DeFrag ecosystem.
+[Metamaticians](overview/metamaticians.md) serve as your User ID in the DeFrag ecosystem. They are randomly generated NFTs based on famous mathematicians and come with a stake in the first Underwriting Pool to earn premium fees. Additional dynamic attributes enable you to accrue more value through your participation in the DeFrag ecosystem.
 
 #### Governance
 
 [DeFrag is a DAO](overview/defrag-dao.md) from day one. We are committed to community-based governance. Each of the Metamaticians will accrue $FRAG tokens which will later allow you to vote on the direction of the financial ecosystem we are building.
-
-
-

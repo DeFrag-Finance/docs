@@ -4,6 +4,6 @@
 
 ## 💡 Overview
 
-* [Minting Metamaticians](overview/minting-metamaticians.md)
+* [Metamaticians](overview/metamaticians.md)
 * [DeFrag DAO](overview/defrag-dao.md)
 * [NFT Loans](overview/nft-loans.md)
